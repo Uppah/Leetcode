@@ -1,5 +1,5 @@
 Problem number | Problems | Solutions
------------- | ------------ | ------------
+-------------- | -------- | ---------
 1480 | Running Sum of 1d Array | [Solution](https://github.com/Uppah/Leetcode/blob/master/Java/Defanging_an_IP_Address.java)
 1470 | Shuffle the Array | [Solution](https://github.com/Uppah/Leetcode/blob/master/Java/Defanging_an_IP_Address.java)
 1431 | Kids With the Greatest Number of Candies | [Solution](https://github.com/Uppah/Leetcode/blob/master/Java/Defanging_an_IP_Address.java)
