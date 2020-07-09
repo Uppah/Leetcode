@@ -1,4 +1,4 @@
-Problem number | Problems | Solutions
+Problem number | Problem | Solutions
 -------------- | -------- | ---------
 1480 | Running Sum of 1d Array | [Solution](https://github.com/Uppah/Leetcode/blob/master/Running_Sum_of_1d_Array.java)
 1470 | Shuffle the Array | [Solution](https://github.com/Uppah/Leetcode/blob/master/Java/Shuffle_the_Array.java)
