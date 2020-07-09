@@ -1,7 +1,8 @@
 class Solution {
     public int[] shuffle(int[] nums, int n) {
-        int i = 0, j = n, o = 0;
-
+        int i = 0;
+        int j = n; 
+        int o = 0;
         int[] ans = new int[nums.length];
 
         while (o < nums.length) {
