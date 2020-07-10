@@ -1,13 +1,10 @@
 class Solution {
     public int[] shuffle(int[] nums, int n) {
-        int i = 0;
-        int j = n; 
-        int o = 0;
         int[] ans = new int[nums.length];
 
-        while (o < nums.length) {
-            ans[o++] = nums[i++];
-            ans[o++] = nums[j++];
+        for(int i = 0; i < nums.length; i = i + 2){
+            ans[i] = nums[i / 2];
+            ans[i + 1] = nums[i / 2 + n];
         }
 
         return ans;
